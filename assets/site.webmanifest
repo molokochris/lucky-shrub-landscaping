@@ -1,0 +1,20 @@
+{
+    "name": "Lucky Shrub",
+    "short_name": "Lucky Shrub",
+    "description": "Lucky Shrub is a family-owned business that sells high-quality plants and gardening supplies.",
+    "icons": [
+        {
+            "src": "assets/android-chrome-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "assets/android-chrome-512x512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ],
+    "theme_color": "#328e86",
+    "background_color": "#ffffff",
+    "display": "standalone"
+}
