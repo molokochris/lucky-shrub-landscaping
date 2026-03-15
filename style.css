@@ -12,6 +12,7 @@ body {
 header {
   text-align: center;
   padding-top: 0.5rem;
+  padding-bottom: 0.5rem;
 }
 
 header img {
@@ -22,6 +23,8 @@ header img {
 
 nav {
   font-size: 0.8rem;
+  background-color: #328e86;
+  margin-bottom: .8rem;
 }
 
 nav ul {
@@ -38,9 +41,11 @@ nav li {
 
 nav a {
   text-decoration: none;
-  color: #555;
+  /* color: #555; */
+
+  color: whitesmoke;
   transition: color 0.2s ease-in-out;
-  font-weight: 700;
+  /* font-weight: 600; */
 }
 
 nav a:hover {
