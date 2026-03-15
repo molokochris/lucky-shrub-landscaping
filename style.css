@@ -51,6 +51,10 @@ nav a {
 nav a:hover {
   color: #d8eb7e;
 }
+nav a.active {
+  color: #d8eb7e;
+  font-weight: bold;
+}
 
 #promotional article {
   display: flex;
