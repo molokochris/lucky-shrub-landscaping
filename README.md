@@ -1,101 +1,60 @@
-# 🌿 Lucky Shrub — Homepage Design
+# Lucky Shrub — Homepage Design
 
-A responsive landscaping business **homepage** built as the **final capstone project** for the [Meta HTML and CSS in Depth Certificate](https://www.coursera.org/learn/html-and-css-in-depth) on Coursera.
+Final project for the HTML and CSS in Depth course, part of the Meta Front-End Developer Certificate on Coursera.
 
-🔗 **Live Demo:** [molokochris.github.io/lucky-shrub-landscaping](https://molokochris.github.io/lucky-shrub-landscaping/)
-
----
-
-## 📌 About the Project
-
-Lucky Shrub is a fictional landscaping company used throughout the Meta Front-End Developer Certificate curriculum. This project is the culmination of the *HTML and CSS in Depth* course — putting into practice everything from semantic HTML structure to advanced CSS layout techniques.
-
-This is a **homepage design only** — a single-page layout covering the navigation bar, hero section, featured projects grid, and footer. The nav links are intentionally non-functional, as the scope of the project was limited to the home page.
+Live site: [molokochris.github.io/lucky-shrub-landscaping](https://molokochris.github.io/lucky-shrub-landscaping/)
 
 ---
 
-## 🛠️ Built With
+## About
 
-- **HTML5** — Semantic markup and document structure
-- **CSS3** — Flexbox, Grid, responsive design, and custom styling
+Lucky Shrub is a fictional landscaping brand used as a running example throughout the Meta curriculum. The brief for this project was to build out their homepage — nav, hero, projects section, and footer — using only HTML and CSS.
 
-> No frameworks. No libraries. Pure HTML and CSS.
+This is a homepage design only. The nav links don't go anywhere; that's by design, not an oversight. I'm sharing it publicly as a reference for other learners going through the same course.
 
 ---
 
-## 📚 Key Concepts Practiced
+## Built with
 
-- Semantic HTML elements (`<header>`, `<nav>`, `<main>`, `<section>`, `<footer>`)
-- CSS Flexbox and Grid layouts
+- HTML5
+- CSS3 (Flexbox, Grid, media queries)
+
+No frameworks, no libraries.
+
+---
+
+## What I practised
+
+- Semantic HTML structure
+- CSS Flexbox and Grid for layout
 - Responsive design with media queries
-- CSS selectors (combinators, pseudo-classes, pseudo-elements)
-- Box model, spacing, and visual hierarchy
-- Image handling and asset optimisation
-- Navigation and page structure best practices
+- CSS combinators and pseudo-classes
+- Visual hierarchy and spacing
+- Working with images and assets
 
 ---
 
-## 📸 Preview
-
-![Lucky Shrub Preview](./preview.png)
-
-> *You can add a screenshot of the site here — just name it `preview.png` and drop it in the root of the repo.*
-
----
-
-## 🚀 Getting Started
-
-To run this project locally:
+## Running it locally
 
 ```bash
 git clone https://github.com/molokochris/lucky-shrub-landscaping.git
 cd lucky-shrub-landscaping
 ```
 
-Then open `index.html` in your browser — no build step needed.
+Open `index.html` in your browser. That's it.
 
 ---
 
-## 🎓 Certificate Context
+## For other learners
 
-This project was completed as part of the **Meta Front-End Developer Professional Certificate** on Coursera, specifically within the *HTML and CSS in Depth* course. It serves as a reference and inspiration for other learners working through the same curriculum.
-
-If you're currently working on this project — take your time with the layout, experiment with the CSS, and make it your own. The brief is a starting point, not a ceiling.
+If you're currently working through this project, use this as a reference point — not a copy. The brief leaves a lot of room to make it your own, and the best way to learn is to actually wrestle with the CSS yourself.
 
 ---
 
-## 📂 Project Structure
+## Licence
 
-```
-lucky-shrub-landscaping/
-├── index.html
-├── styles.css
-├── assets/
-│   ├── logo.png
-│   ├── promotional.jpg
-│   ├── tropical.jpg
-│   ├── modern.jpg
-│   └── luxury.jpg
-└── README.md
-```
-
-> *File structure may vary slightly depending on how you've organised your assets.*
+MIT — do whatever you want with it.
 
 ---
 
-## 🙌 Acknowledgements
-
-- **Meta** and **Coursera** for the curriculum and project brief
-- The Lucky Shrub fictional brand used throughout the Meta Front-End certificate
-
----
-
-## 📄 Licence
-
-This project is open source and available under the [MIT Licence](LICENSE).
-
-Feel free to fork it, reference it, or use it as inspiration for your own coursework submission — just don't copy it wholesale if you're still working through the course. Build your version; it's worth the struggle. 💪
-
----
-
-*Built by [Moloko Chris Poopedi](https://github.com/molokochris) · Limpopo/Pretoria, South Africa*
+*Moloko Chris Poopedi — Limpopo/Pretoria, South Africa*
