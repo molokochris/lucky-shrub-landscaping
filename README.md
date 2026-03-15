@@ -4,6 +4,8 @@ Final project for the HTML and CSS in Depth course, part of the Meta Front-End D
 
 Live site: [molokochris.github.io/lucky-shrub-landscaping](https://molokochris.github.io/lucky-shrub-landscaping/)
 
+![Lucky Shrub Homepage](./screenshot_image.png)
+
 ---
 
 ## About
